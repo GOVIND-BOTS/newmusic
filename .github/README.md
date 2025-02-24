@@ -84,3 +84,7 @@ Aditya-Player is an advanced & powerful multi-featured Telegram vc streaming bot
 
 - [**`Pyrogram:`**](https://github.com/pyrogram) All functions of Aditya-Player based on this mtproto client library.
 - [**`Py-TgCalls:`**](https://github.com/py-tgcalls) Telegram Streaming system of Aditya-Player based on this library.
+
+
+
+![GOVIND-BOTS](https://te.legra.ph/file/YOUR_IMAGE_LINK_HERE.png)
